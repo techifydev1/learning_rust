@@ -18,5 +18,5 @@ fn get_fibo_up_to(max_value: i32) {
         a = b;
         b = next;
     }
-    println!(); // Adds a final new line
+    println!();
 }
